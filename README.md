@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/nP1I08QRJC7wTo60dL/giphy.gif" width="400"/>
 </div>
 <div id="badges">
+ <div align="center">
   <a href="https://www.linkedin.com/in/shaishta-anjum-24b316252">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
