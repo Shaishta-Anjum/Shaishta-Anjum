@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/icons8-power-bi-2021-48.png?raw=true" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/Seaborn%20cropped.png?raw=true" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/Matplotlib.png?raw=true" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
 </div>
