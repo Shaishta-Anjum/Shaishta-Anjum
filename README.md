@@ -25,7 +25,7 @@
   
 ### 💟 About Me :
 - 🏫 I'm currently pursuing Engineering in Artificial Intelligence from Sri Venkateshwara College of Engineering (2021-2025)
-- 🌱 I’m currently trying to Master Python by making different types of Projects.
+- 🌱 I’m an aspiring Data Analyst trying to master the art the of data analysis by making projects with Python, SQL, Power BI and Excel.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact about me: Apart from coding, I also love reading novels.
   
@@ -46,10 +46,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/Seaborn%20cropped.png?raw=true" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/Matplotlib.png?raw=true" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
 </div>
 
----
-  
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shaishta-Anjum)](https://git.io/streak-stats)
 
