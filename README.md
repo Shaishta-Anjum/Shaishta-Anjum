@@ -1,4 +1,4 @@
-# Hello there! I'm Shaishta Anjum
+# Hello there! I'm Shaishta Anjum🙋‍♀️
 
 <div align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="450"/>
@@ -55,7 +55,8 @@
   <a href="https://shaishta2002.wixsite.com/shaishta-anjum">
     <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
 </div>
+<div align="center">
+  <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/meme.png?raw=true" width="450"/>
+</div>
 
-
-![](https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/meme.png?raw=true)
 ### Thanks for stopping by! Let's code and create together! 👩‍💻
