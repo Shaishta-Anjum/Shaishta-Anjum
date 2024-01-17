@@ -1,13 +1,13 @@
-# 👋 Hello there! I'm Shaishta Anjum 👩‍💻
+# 👋 Hello there! I'm Shaishta Anjum
 
 <div align="center">
   <img src="https://media.giphy.com/media/nP1I08QRJC7wTo60dL/giphy.gif" width="400"/>
 </div>
 
-### 🌟 About Me:
+### 🌜 About Me:
 
-- 🏫 Currently navigating the exciting world of Artificial Intelligence at Sri Venkateshwara College of Engineering (2021-2025).
-- 🚀 Aspiring Data Analyst on a mission to master the art of data analysis using Python, SQL, Power BI, and Excel.
+- 🏫 Currently Pursuing Engineering in Artificial Intelligence at Sri Venkateshwara College of Engineering (2021-2025).
+- ⚡ Aspiring Data Analyst on a mission to master the art of data analysis using Python, SQL, Power BI, and Excel.
 - 😄 Pronouns: She/Her
 - 📚 Fun fact: Beyond the code, I find solace in the captivating world of novels.
 
@@ -51,6 +51,9 @@
   <a href="discordapp.com/users/farfetchdreamer#0245">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://shaishta2002.wixsite.com/shaishta-anjum">
+    <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
 </div>
 
-### 🎉 Thanks for stopping by! Let's code and create together! 🚀
+
+### Thanks for stopping by! Let's code and create together! 👩‍💻
