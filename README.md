@@ -1,7 +1,7 @@
-# 👋 Hello there! I'm Shaishta Anjum
+# Hello there! I'm Shaishta Anjum
 
 <div align="center">
-  <img src="https://media.giphy.com/media/nP1I08QRJC7wTo60dL/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600"/>
 </div>
 
 ### 🌜 About Me:
@@ -57,4 +57,5 @@
 </div>
 
 
+![](https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/meme.png?raw=true)
 ### Thanks for stopping by! Let's code and create together! 👩‍💻
