@@ -1,7 +1,7 @@
 # Hello there! I'm Shaishta Anjum
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="450"/>
 </div>
 
 ### 🌜 About Me:
