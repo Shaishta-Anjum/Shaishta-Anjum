@@ -54,6 +54,10 @@
   </a>
   <a href="https://shaishta2002.wixsite.com/shaishta-anjum">
     <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.novypro.com/profile_projects/shaishtaanjum">
+    <img src="https://img.shields.io/badge/novypro-purple?style=for-the-badge&logo=novypro&logoColor=white" alt="NovyPro Badge"/>
+  </a>
 </div>
 <div align="center">
   <img src="https://github.com/Shaishta-Anjum/Oven-Joy-Pizzeria-Sales-Report/blob/main/icons/meme.png?raw=true" width="450"/>
